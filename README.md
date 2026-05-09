@@ -4,7 +4,9 @@
 
 JC Asintado Pictures is a freelance photography brand based in the Philippines, covering areas in Urdaneta City, Pangasinan, La Union, Tarlac, and selected parts of Luzon.
 
-This project serves as the official contact platform and tool for JC Asintado Pictures and Asintado Pictures Network, and is currently under development by Jaemily Galinato Cadimas. v1.0.050926
+This project serves as the official contact platform and tool for JC Asintado Pictures and Asintado Pictures Network, and is currently under development by Jaemily Galinato Cadimas. 
+
+v1.0.050926
 
 ---
 
