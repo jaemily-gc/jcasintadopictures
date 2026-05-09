@@ -43,3 +43,18 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Secrets and environment files
+.env
+.env.*
+*.env
+secret.dart
+secrets.dart
+apikeys.dart
+api_keys.dart
+credentials.json
+service-account.json
+firebase-adminsdk*.json
+aws-credentials.txt
+*.pem
+*.key
