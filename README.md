@@ -1,17 +1,50 @@
-# jc_asintado_pictures
+# JC Asintado Pictures
 
-A new Flutter project.
+*"Precision in Every Shot."*
 
-## Getting Started
+JC Asintado Pictures is a freelance photography brand based in the Philippines, covering areas in Urdaneta City, Pangasinan, La Union, Tarlac, and selected parts of Luzon.
 
-This project is a starting point for a Flutter application.
+This project serves as the official contact platform and tool for JC Asintado Pictures and Asintado Pictures Network, and is currently under development by Jaemily Galinato Cadimas.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Freelance Specializations
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Candid
+- Family
+- Birthday
+- Baby
+- Graduation
+- Prenup
+- Debut
+- Wedding
+- Beach
+- Event
+- Pageant
+- Sports
+- Street
+- Structures
+- Performances
+- Events
+- Fiesta
+- Celebrations
+
+---
+
+## Areas Covered
+
+- Urdaneta City
+- Pangasinan
+- La Union
+- Tarlac
+- Nearby Towns
+
+---
+
+## Official Links
+
+### Facebook
+https://facebook.com/AsintadoPictures
+
+### Email
+jcasintadopictures@gmail.com
