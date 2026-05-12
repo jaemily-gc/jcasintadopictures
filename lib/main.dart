@@ -143,7 +143,7 @@ class HomePage extends StatelessWidget {
     return Column(
       children: [
         const Text(
-          'Tap the QR Code to visit our official Facebook page.',
+          'Tap the QR Code to visit JC Asintado™ Pictures official Facebook page.',
           textAlign: TextAlign.center,
           style: TextStyle(color: Colors.white70, fontSize: 15, height: 1.6),
         ),
