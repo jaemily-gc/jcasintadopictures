@@ -12,7 +12,7 @@ class JCAsintadoApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'JC Asintado Pictures',
+      title: 'JC Asintado™ Pictures',
       theme: ThemeData.dark(),
       home: const HomePage(),
     );
@@ -143,7 +143,7 @@ class HomePage extends StatelessWidget {
     return Column(
       children: [
         const Text(
-          'Tap the QR Code to visit JC Asintado™ Pictures official Facebook page.',
+          'Tap or scan the QR code to visit JC Asintado™ Pictures official Facebook page.',
           textAlign: TextAlign.center,
           style: TextStyle(color: Colors.white70, fontSize: 15, height: 1.6),
         ),
