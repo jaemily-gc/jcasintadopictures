@@ -61058,7 +61058,7 @@ case 1:return A.J(p.at(-1),r)}})
 return A.L($async$ru,r)}}
 A.Wa.prototype={}
 A.Bn.prototype={
-U(a){return new A.ta(B.zm,"JC Asintado Pictures",A.a9p(B.a8,null,null),!1,null)}}
+U(a){return new A.ta(B.zm,"JC Asintado\u2122 Pictures",A.a9p(B.a8,null,null),!1,null)}}
 A.rD.prototype={
 q1(){var s=0,r=A.M(t.H)
 var $async$q1=A.N(function(a,b){if(a===1)return A.J(b,r)
@@ -61071,7 +61071,7 @@ return new A.uj(A.zW(A.ant(A.abn(new A.Ed(B.z_,new A.iT(B.wa,A.alE(new A.R_(this
 CI(){var s=null,r=this.Eh(),q=t.E
 return A.NW(A.d([A.zW(A.ack("assets/logo.png",B.iP),r,s,s,B.yZ,s),B.uX,A.zW(A.NW(A.d([B.FS,B.HD,new A.oZ(B.zp,"jcasintadopictures@gmail.com",!1,s),B.Hy,A.a8H(!1,A.kt(12),!0,new A.oZ(B.zq,"facebook.com/AsintadoPictures",!0,s),s,!0,s,s,s,s,s,s,this.gF6(),s,s,s)],q),B.ax),s,s,s,B.z1,1/0)],q),B.ay)},
 Fm(){var s=null,r=this.gF6(),q=A.kt(30),p=this.Eh()
-return A.NW(A.d([B.LH,B.HE,new A.wc(r,s),B.uX,A.a8H(!1,q,!0,A.zW(A.abr(A.kt(22),A.ack("assets/qr.jpg",B.iP)),p,s,s,B.yY,s),s,!0,s,s,s,s,s,s,r,s,s,s)],t.E),B.ay)},
+return A.NW(A.d([B.LJ,B.HE,new A.wc(r,s),B.uX,A.a8H(!1,q,!0,A.zW(A.abr(A.kt(22),A.ack("assets/qr.jpg",B.iP)),p,s,s,B.yY,s),s,!0,s,s,s,s,s,s,r,s,s,s)],t.E),B.ay)},
 Eh(){var s=A.bA(15,B.i.M()>>>16&255,B.i.M()>>>8&255,B.i.M()&255),r=A.kt(28),q=new A.bQ(A.bA(B.c.au(25.5),B.i.M()>>>16&255,B.i.M()>>>8&255,B.i.M()&255),1,B.G,-1)
 return new A.fg(s,null,new A.cQ(q,q,q,q),r,A.d([new A.fY(2,B.iN,A.bA(31,B.d_.M()>>>16&255,B.d_.M()>>>8&255,B.d_.M()&255),B.j,35)],t.xq),null,B.bQ)}}
 A.R_.prototype={
@@ -61102,7 +61102,7 @@ $S:0}
 A.wc.prototype={
 al(){return new A.Hc()}}
 A.Hc.prototype={
-U(a){var s=this,r=null,q=s.a.c,p=A.a7Y(B.LI,B.fA,B.yK,A.jO(r,r,B.i,r,r,r,r,r,r,r,r,s.d?12.6:13.2,r,r,B.k3,r,r,!0,r,0.4,r,r,r,r,r,r)),o=A.akI(r,r,B.d_,r,r,r,r,r,r,B.i,r,r,B.z0,r,new A.cV(A.kt(18),B.r),r,r,r,r,r)
+U(a){var s=this,r=null,q=s.a.c,p=A.a7Y(B.LH,B.fA,B.yK,A.jO(r,r,B.i,r,r,r,r,r,r,r,r,s.d?12.6:13.2,r,r,B.k3,r,r,!0,r,0.4,r,r,r,r,r,r)),o=A.akI(r,r,B.d_,r,r,r,r,r,r,B.i,r,r,B.z0,r,new A.cV(A.kt(18),B.r),r,r,r,r,r)
 return A.tk(new A.AA(!0,q,r,r,r,o,B.aa,r,!1,r,r,new A.GG(p,B.zu,o,r,r),r),B.ih,new A.a33(s),new A.a34(s),r)}}
 A.a33.prototype={
 $1(a){var s=this.a
@@ -65724,11 +65724,11 @@ B.cb=new A.o2(1,"doNotPop")
 B.uf=new A.o2(2,"bubble")
 B.it=new A.a0m(1,"down")
 B.Jm=new A.m(!0,B.d_,null,null,null,null,12,B.hc,null,2.8,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.LJ=new A.m0("CONNECT WITH US",null,B.Jm,null,null)
+B.LI=new A.m0("CONNECT WITH US",null,B.Jm,null,null)
 B.HB=new A.eb(8,null,null,null)
 B.zr=new A.l5(63643,"MaterialIcons",!1)
 B.zv=new A.nn(B.zr,16,B.i,null,null)
-B.Ad=s([B.LJ,B.HB,B.zv],t.E)
+B.Ad=s([B.LI,B.HB,B.zv],t.E)
 B.FS=new A.uh(B.aI,B.bB,B.hz,B.ay,null,B.it,null,0,B.Ad,null)
 B.FT=new A.Dz(null,null)
 B.bG=new A.lO(0,"idle")
@@ -66193,9 +66193,9 @@ B.Ky=new A.m(!0,B.B,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.KQ=new A.m(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.Iy=new A.m(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.LG=new A.dm(B.JW,B.J5,B.JX,B.Ki,B.IQ,B.IX,B.Jl,B.Ke,B.Jw,B.KB,B.Ir,B.IG,B.Ky,B.KQ,B.Iy)
+B.LH=new A.m0("MESSAGE US ON FACEBOOK",null,null,null,null)
 B.KI=new A.m(!0,B.w,null,null,null,null,15,null,null,null,null,null,1.6,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.LH=new A.m0("Tap the QR Code to visit our official Facebook page.",null,B.KI,B.dh,null)
-B.LI=new A.m0("MESSAGE US ON FACEBOOK",null,null,null,null)
+B.LJ=new A.m0("Tap or scan the QR code to visit JC Asintado\u2122 Pictures official Facebook page.",null,B.KI,B.dh,null)
 B.Ob=new A.a_Y(0,"system")
 B.Eo=new A.w(0.056,0.024)
 B.Ew=new A.w(0.108,0.3085)
